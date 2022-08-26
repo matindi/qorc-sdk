@@ -47,11 +47,11 @@ ARM_TOOLCHAIN_INSTALL_DIR="${ARM_TOOLCHAIN_INSTALL_BASE_DIR}/gcc-arm-none-eabi-9
 EXPECTED_ARM_TOOLCHAIN_GCC_PATH="${ARM_TOOLCHAIN_INSTALL_DIR}/bin/arm-none-eabi-gcc"
 
 
-FPGA_TOOLCHAIN_INSTALLER_URL="https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain/releases/download/v1.3.1/Symbiflow_v1.3.1.gz.run"
-FPGA_TOOLCHAIN_INSTALLER_FILE="Symbiflow_v1.3.1.gz.run"
-FPGA_TOOLCHAIN_INSTALLER_LOG="fpga_toolchain_install_v1.3.1.log"
+FPGA_TOOLCHAIN_INSTALLER_URL="https://github.com/QuickLogic-Corp/quicklogic-fpga-toolchain/releases/download/v1.3.2/Symbiflow_v1.3.2.gz.run"
+FPGA_TOOLCHAIN_INSTALLER_FILE="Symbiflow_v1.3.2.gz.run"
+FPGA_TOOLCHAIN_INSTALLER_LOG="fpga_toolchain_install_v1.3.2.log"
 FPGA_TOOLCHAIN_INSTALL_BASE_DIR="${QORC_SDK_PATH}/fpga_toolchain_install"
-FPGA_TOOLCHAIN_INSTALL_DIR="${FPGA_TOOLCHAIN_INSTALL_BASE_DIR}/v1.3.1"
+FPGA_TOOLCHAIN_INSTALL_DIR="${FPGA_TOOLCHAIN_INSTALL_BASE_DIR}/v1.3.2"
 EXPECTED_FPGA_TOOLCHAIN_QLSYMBIFLOW_PATH="${FPGA_TOOLCHAIN_INSTALL_DIR}/quicklogic-arch-defs/bin/ql_symbiflow"
 
 
